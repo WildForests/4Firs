@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/index.html",
+      "/about.html",
+      "/posts/Spring-Cherry-FFM.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/Spring-Cherry-FFM.html"
+    ]
+  }
+]
